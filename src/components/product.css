@@ -1,0 +1,12 @@
+.product{
+    width: 40%;
+    min-height: 30vh;
+    background-color: cadetblue;
+    border: solid 2px black;
+}
+
+.productCounterContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
